@@ -12,3 +12,4 @@ Project Helper. Allowing search, replace and other useful operations
    pip install -r requirements.txt
    python file_editor.py
    ```
+2. Type help to see available options
