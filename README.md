@@ -8,7 +8,7 @@ Project Helper. Allowing search, replace and other useful operations
 1. Clone the repository and install dependencies:
    ```shell
    git clone https://github.com/ErnestoAizenberg/file-editor.git
-   cd open-manus-agent
+   cd file-editor
    pip install -r requirements.txt
    python file_editor.py
    ```
